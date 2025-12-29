@@ -1,0 +1,22 @@
+{
+  "name": "playwright-biosafeapp",
+  "version": "1.0.0",
+  "description": "Se basa en la automatización para la aplicación biosafeapp de pruebas QA",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edavilaz/playwright-biosafeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edavilaz/playwright-biosafeapp/issues"
+  },
+  "homepage": "https://github.com/edavilaz/playwright-biosafeapp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
